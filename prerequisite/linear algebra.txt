@@ -1,0 +1,63 @@
+scalar 
+
+vector
+    addition
+    subtraction
+    dot product
+    cross product
+    vector space
+
+matrix
+    addition
+    subtraction
+    multiplication
+    transpose
+
+linear transformation
+
+linear equation
+    row reduction (Gaussian Elimination)
+    Homogeneous and non-homogeneous systems
+
+Eigenvalues and Eigenvectors
+
+
+
+TODO: 
+5. ****:
+   - Definition and computation
+   - Characteristic polynomial
+   - Diagonalization
+   - Spectral theorem
+
+6. **Inner Product Spaces**:
+   - Definition of inner product (dot product)
+   - Norms and orthogonality
+   - Gram-Schmidt process
+   - Orthogonal and orthonormal bases
+
+7. **Vector Norms and Metrics**:
+   - Definition of norms
+   - Common types of norms (e.g., L2 norm, L1 norm)
+   - Distance metrics in vector spaces
+
+8. **Matrix Decompositions**:
+   - LU decomposition
+   - QR decomposition
+   - Singular value decomposition (SVD)
+   - Cholesky decomposition
+
+9. **Linear Independence and Dependence**:
+   - Definition and criteria
+   - Relation to basis and dimension
+
+10. **Projection and Least Squares**:
+    - Orthogonal projections
+    - Least squares solutions
+    - Normal equations
+
+11. **Rank and Nullity**:
+    - Definition of rank
+    - Rank-nullity theorem
+
+These concepts form the foundation of linear algebra and are crucial for understanding more advanced topics in the field.
